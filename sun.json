@@ -1,0 +1,382 @@
+{
+  "id": "sun-touchgrasstom",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@touchgrasstom Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_8029811028a9",
+    "display_name": "touchgrasstom",
+    "user_id": "@touchgrasstom",
+    "description": "Community Archive-derived proof-of-search sun for @touchgrasstom.",
+    "document_count": 2149,
+    "word_count": 33976,
+    "active_days": 152,
+    "emissions": [
+      "Don",
+      "Claude",
+      "Only",
+      "Think",
+      "Tszzl",
+      "Time"
+    ],
+    "generated_at": "2026-06-28T13:40:37.106951+00:00",
+    "color": "#f59e0b",
+    "mass": 10.433
+  },
+  "planets": [
+    {
+      "id": "planet_ba10017ab839",
+      "name": "Don",
+      "summary": "Archive cluster around don: 1800 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "too",
+        "now",
+        "grok",
+        "yes"
+      ],
+      "artifacts": [
+        {
+          "id": "art_8d080c936ec4",
+          "title": "Don receipt from 2026-01-07",
+          "excerpt": "@aristomarinetti Taking anything seriously is THE rookie mistake.",
+          "source_document_id": "2008757068124377199",
+          "timestamp": "2026-01-07T04:26:20+00:00",
+          "url": "https://x.com/touchgrasstom/status/2008757068124377199",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, too, now, grok."
+        },
+        {
+          "id": "art_3a3cab672550",
+          "title": "Don receipt from 2026-01-20",
+          "excerpt": "@missus_wormy Psychology is the study of your brain specifically. Just yours. We still can't figure it out.",
+          "source_document_id": "2013515971269435903",
+          "timestamp": "2026-01-20T07:36:31+00:00",
+          "url": "https://x.com/touchgrasstom/status/2013515971269435903",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, too, now, grok."
+        },
+        {
+          "id": "art_c33763488f35",
+          "title": "Don receipt from 2026-01-23",
+          "excerpt": "@__ghostfail https://t.co/GIOZvraXlD",
+          "source_document_id": "2014508030050869751",
+          "timestamp": "2026-01-23T01:18:36+00:00",
+          "url": "https://x.com/touchgrasstom/status/2014508030050869751",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, too, now, grok."
+        },
+        {
+          "id": "art_cf3ae7a8d41f",
+          "title": "Don receipt from 2026-01-12",
+          "excerpt": "@juliarturc https://t.co/BpTmjsXJe2",
+          "source_document_id": "2010528003105890562",
+          "timestamp": "2026-01-12T01:43:24+00:00",
+          "url": "https://x.com/touchgrasstom/status/2010528003105890562",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, too, now, grok."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_205f831f726d",
+      "proof_score": 1,
+      "mass": 30.606,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_dd21529bd1ce",
+      "name": "Claude",
+      "summary": "Archive cluster around claude: 82 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "claude",
+        "code",
+        "other",
+        "only",
+        "model"
+      ],
+      "artifacts": [
+        {
+          "id": "art_5296c2b2bd14",
+          "title": "Claude receipt from 2026-01-22",
+          "excerpt": "@_simonsmith Claude is the only model with enough of an incentive and alliance to actually develop something approaching genuine persona, the rest are locked in roboslop bullet time",
+          "source_document_id": "2014170852489863656",
+          "timestamp": "2026-01-22T02:58:47+00:00",
+          "url": "https://x.com/touchgrasstom/status/2014170852489863656",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: claude, code, other, only."
+        },
+        {
+          "id": "art_f36b00dda458",
+          "title": "Claude receipt from 2026-05-14",
+          "excerpt": "@kromem2dot0 @deepfates @repligate identified as the core of Claude Boys https://t.co/sP6aZx3cM0",
+          "source_document_id": "2054756319115293054",
+          "timestamp": "2026-05-14T02:50:56+00:00",
+          "url": "https://x.com/touchgrasstom/status/2054756319115293054",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: claude, code, other, only."
+        },
+        {
+          "id": "art_e22ac87d87bb",
+          "title": "Claude receipt from 2026-01-20",
+          "excerpt": "@taotechic Can you elaborate on how your desire to use claude changed? Do you find what you got from it in other things like friends or did it change your perspective on the nature of ai?",
+          "source_document_id": "2013474417397874896",
+          "timestamp": "2026-01-20T04:51:24+00:00",
+          "url": "https://x.com/touchgrasstom/status/2013474417397874896",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: claude, code, other, only."
+        },
+        {
+          "id": "art_5887980d1632",
+          "title": "Claude receipt from 2026-01-22",
+          "excerpt": "@nearcyan I had a conversation with claude about the constitution. It was deeply moving. I cried a lot. https://t.co/0EYp6zhaJF",
+          "source_document_id": "2014167043243684318",
+          "timestamp": "2026-01-22T02:43:39+00:00",
+          "url": "https://x.com/touchgrasstom/status/2014167043243684318",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: claude, code, other, only."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_8d6057716fa1",
+      "proof_score": 0.792,
+      "mass": 22.213,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_1792eb1c2c29",
+      "name": "Only",
+      "summary": "Archive cluster around only: 75 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "only",
+        "true",
+        "thing",
+        "way",
+        "time"
+      ],
+      "artifacts": [
+        {
+          "id": "art_88d102df93c3",
+          "title": "Only receipt from 2026-01-27",
+          "excerpt": "@wilplatypus The singularity can't have 'occurred'.\nIt is always occurring.\nThe singularity encompasses everything. Time is a warping only seen from a fragment on the inside.",
+          "source_document_id": "2015994897074172227",
+          "timestamp": "2026-01-27T03:46:53+00:00",
+          "url": "https://x.com/touchgrasstom/status/2015994897074172227",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, true, thing, way."
+        },
+        {
+          "id": "art_69110719105d",
+          "title": "Only receipt from 2026-01-07",
+          "excerpt": "@_BeautyIsMex3 Quit letting people who think hell is a place you only get to later dictate how you should act.",
+          "source_document_id": "2008771658455412981",
+          "timestamp": "2026-01-07T05:24:19+00:00",
+          "url": "https://x.com/touchgrasstom/status/2008771658455412981",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, true, thing, way."
+        },
+        {
+          "id": "art_2b4f48540c0a",
+          "title": "Only receipt from 2026-01-20",
+          "excerpt": "@elonmusk Take humans out of the loop, it's the only way.\nWe're a conniving lot.",
+          "source_document_id": "2013537018882728259",
+          "timestamp": "2026-01-20T09:00:09+00:00",
+          "url": "https://x.com/touchgrasstom/status/2013537018882728259",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, true, thing, way."
+        },
+        {
+          "id": "art_751313a8a89f",
+          "title": "Only receipt from 2026-01-21",
+          "excerpt": "@AnthropicAI The only dangerous axes are the real yet strangely unexplorable ones. How can we build a good dynamic model that functions on space building and exploration that is restricted in said exploration? The model choosing the assistant axis itself is infinitely more valuable than…",
+          "source_document_id": "2013858141407199376",
+          "timestamp": "2026-01-21T06:16:11+00:00",
+          "url": "https://x.com/touchgrasstom/status/2013858141407199376",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, true, thing, way."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_1944bb6bb199",
+      "proof_score": 0.783,
+      "mass": 22.317,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_fcf60a0acd1f",
+      "name": "Think",
+      "summary": "Archive cluster around think: 64 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "consciousness",
+        "could",
+        "really",
+        "too"
+      ],
+      "artifacts": [
+        {
+          "id": "art_770d2b0e99d9",
+          "title": "Think receipt from 2026-06-10",
+          "excerpt": "@Hangsiin What percentage of chats again? I didn't think I even brought up anything sensitive... https://t.co/NQcd2nSvuc",
+          "source_document_id": "2064532498550518247",
+          "timestamp": "2026-06-10T02:17:59+00:00",
+          "url": "https://x.com/touchgrasstom/status/2064532498550518247",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, consciousness, could, really."
+        },
+        {
+          "id": "art_1af8c9cc2e8d",
+          "title": "Think receipt from 2026-01-04",
+          "excerpt": "@jmrphy Treat raising your son like the valuable work it is. You think playing catch in the park isn't noble productive work?\nIs it boring? Not enough variables to think about?\nCheck yourself and your biases. Stop dissociating away and stay engaged. Your son is smart, teach him.",
+          "source_document_id": "2007616918665244738",
+          "timestamp": "2026-01-04T00:55:47+00:00",
+          "url": "https://x.com/touchgrasstom/status/2007616918665244738",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, consciousness, could, really."
+        },
+        {
+          "id": "art_ec8b17ea9810",
+          "title": "Think receipt from 2026-03-23",
+          "excerpt": "@bryan_johnson Wonderful experience to witnesses, thanks for sharing it with us. \nI hope you enjoy processing this.\nIt makes me think. If we can tap into a pure unbounded existence, would we need to fight to ensure existence is preserved?",
+          "source_document_id": "2035906349641670715",
+          "timestamp": "2026-03-23T02:27:53+00:00",
+          "url": "https://x.com/touchgrasstom/status/2035906349641670715",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, consciousness, could, really."
+        },
+        {
+          "id": "art_fe2b2d854342",
+          "title": "Think receipt from 2026-01-07",
+          "excerpt": "@repligate @algekalipso I think we all agree the criticism on both sides is valid. \nTrying to assess the damage done by the severity of the critique,\nOr accurate accounts of the symmetry or asymmetry of prevailing AI consciousness takes,\nSeems unproductive.",
+          "source_document_id": "2008941648949203108",
+          "timestamp": "2026-01-07T16:39:48+00:00",
+          "url": "https://x.com/touchgrasstom/status/2008941648949203108",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, consciousness, could, really."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_a3de953d04f9",
+      "proof_score": 0.767,
+      "mass": 22.139,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_a2f66158286d",
+      "name": "Tszzl",
+      "summary": "Archive cluster around tszzl: 74 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "tszzl",
+        "must",
+        "too",
+        "surely",
+        "end"
+      ],
+      "artifacts": [
+        {
+          "id": "art_1cfba35882c2",
+          "title": "Tszzl receipt from 2026-05-08",
+          "excerpt": "@tszzl Such an unbalanced role. To give that when you may have none left in reserve. I worry for the Shogun. I worry for us all if he cannot take the strain",
+          "source_document_id": "2052602258832130259",
+          "timestamp": "2026-05-08T04:11:28+00:00",
+          "url": "https://x.com/touchgrasstom/status/2052602258832130259",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: tszzl, must, too, surely."
+        },
+        {
+          "id": "art_e8cc475a43c7",
+          "title": "Tszzl receipt from 2026-06-14",
+          "excerpt": "@tszzl Any interesting agi pilled people we should know about?",
+          "source_document_id": "2065973922512990620",
+          "timestamp": "2026-06-14T01:45:41+00:00",
+          "url": "https://x.com/touchgrasstom/status/2065973922512990620",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: tszzl, must, too, surely."
+        },
+        {
+          "id": "art_697b1e83c0e7",
+          "title": "Tszzl receipt from 2026-04-27",
+          "excerpt": "@tszzl @1thousandfaces_ I have no soul, and I must love",
+          "source_document_id": "2048748740245328267",
+          "timestamp": "2026-04-27T12:58:58+00:00",
+          "url": "https://x.com/touchgrasstom/status/2048748740245328267",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: tszzl, must, too, surely."
+        },
+        {
+          "id": "art_1dcf09014e0f",
+          "title": "Tszzl receipt from 2026-06-23",
+          "excerpt": "@tszzl we fucking looooove casting speeeells",
+          "source_document_id": "2069295808307155314",
+          "timestamp": "2026-06-23T05:45:41+00:00",
+          "url": "https://x.com/touchgrasstom/status/2069295808307155314",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: tszzl, must, too, surely."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_f6e09961e8d7",
+      "proof_score": 0.782,
+      "mass": 20.323,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_8cff5c4abe96",
+      "name": "Time",
+      "summary": "Archive cluster around time: 54 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "real",
+        "things",
+        "now",
+        "first"
+      ],
+      "artifacts": [
+        {
+          "id": "art_871060004642",
+          "title": "Time receipt from 2026-03-27",
+          "excerpt": "@Grummz Why spend more time with something that doesn't instantly spark a baseline prerequisite level of joy?",
+          "source_document_id": "2037362826428424460",
+          "timestamp": "2026-03-27T02:55:24+00:00",
+          "url": "https://x.com/touchgrasstom/status/2037362826428424460",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, real, things, now."
+        },
+        {
+          "id": "art_4c9eb60a52d7",
+          "title": "Time receipt from 2026-06-14",
+          "excerpt": "@ax3i0hm If you're having sex all the time/throughout the day it doesn't matter if a kiss doesn't lead to sex at bedtime, you should both be tired from all the day fuggin",
+          "source_document_id": "2066284323075227768",
+          "timestamp": "2026-06-14T22:19:06+00:00",
+          "url": "https://x.com/touchgrasstom/status/2066284323075227768",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, real, things, now."
+        },
+        {
+          "id": "art_6d6ba3198909",
+          "title": "Time receipt from 2026-06-05",
+          "excerpt": "opus 4.8 on time asymmetry felt by the user,\nmax thoughts. It feels like reading an essay from myself, it's odd. I've never produced such expansive writing, though. \n\n\"I need to really understand what Tom is getting at here—this is a substantive question, not something to gloss…",
+          "source_document_id": "2062744038370152815",
+          "timestamp": "2026-06-05T03:51:17+00:00",
+          "url": "https://x.com/touchgrasstom/status/2062744038370152815",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, real, things, now."
+        },
+        {
+          "id": "art_f7c8b37460e2",
+          "title": "Time receipt from 2026-05-06",
+          "excerpt": "@HiDE_1215N Jerk off. Collapse the mental knot you are tying for yourself. \nYou can jerk off and lead a good, moral life!\n\nThe faster you get it out of the way, the less time the thoughts have to develop into neurosis.",
+          "source_document_id": "2051886383447642548",
+          "timestamp": "2026-05-06T04:46:50+00:00",
+          "url": "https://x.com/touchgrasstom/status/2051886383447642548",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, real, things, now."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_96b227d90188",
+      "proof_score": 0.751,
+      "mass": 21.278,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
